@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-workboard-client-side-solution",
+    "id": "a63389ce-0876-493f-88b8-4a85efdfb43a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-workboard.sppkg"
+  }
+}

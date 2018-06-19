@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "sharepoint-workboard",
+    "libraryId": "a63389ce-0876-493f-88b8-4a85efdfb43a",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

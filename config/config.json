@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "work-board-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/workBoard/WorkBoardWebPart.js",
+          "manifest": "./src/webparts/workBoard/WorkBoardWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WorkBoardWebPartStrings": "lib/webparts/workBoard/loc/{locale}.js"
+  }
+}
